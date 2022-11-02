@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Marat252552/example/static/css/main.073c9b0a.css",
-    "main.js": "/Marat252552/example/static/js/main.77c11d46.js",
-    "static/js/787.759e47f1.chunk.js": "/Marat252552/example/static/js/787.759e47f1.chunk.js",
-    "static/media/logo.svg": "/Marat252552/example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Marat252552/example/index.html",
-    "main.073c9b0a.css.map": "/Marat252552/example/static/css/main.073c9b0a.css.map",
-    "main.77c11d46.js.map": "/Marat252552/example/static/js/main.77c11d46.js.map",
-    "787.759e47f1.chunk.js.map": "/Marat252552/example/static/js/787.759e47f1.chunk.js.map"
+    "main.css": "/github.io/example/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/example/static/js/main.fb886c14.js",
+    "static/js/787.759e47f1.chunk.js": "/github.io/example/static/js/787.759e47f1.chunk.js",
+    "static/media/logo.svg": "/github.io/example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/example/index.html",
+    "main.073c9b0a.css.map": "/github.io/example/static/css/main.073c9b0a.css.map",
+    "main.fb886c14.js.map": "/github.io/example/static/js/main.fb886c14.js.map",
+    "787.759e47f1.chunk.js.map": "/github.io/example/static/js/787.759e47f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.77c11d46.js"
+    "static/js/main.fb886c14.js"
   ]
 }
